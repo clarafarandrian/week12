@@ -195,7 +195,7 @@ footer{
 .social-media a{
     color:white;
     text-decoration:none;
-    background:rgba(255,255,255,0.2);
+    background:rgba(255, 255, 255, 0.14);
     padding:8px 14px;
     border-radius:8px;
     transition:.3s;
